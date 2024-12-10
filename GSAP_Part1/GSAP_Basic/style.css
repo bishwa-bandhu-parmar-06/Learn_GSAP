@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body {
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+}
+body {
+    background-color: #111;
+    color: #fff;
+}
+#box {
+    height: 300px;
+    width: 300px;
+    background-color: crimson;
+}
+#box2 {
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    margin-top: 20px;
+}
+#box3 {
+    height: 300px;
+    width: 300px;
+    background-color: darkred;
+    margin-top: 20px;
+}
